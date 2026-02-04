@@ -2,3 +2,7 @@ riga file1 n.1
 riga file1 n.2
 riga file1 n.3
 riga file1 n.4
+riga da master
+riga file1 n.6
+riga file1 n.7
+riga file1 n.8
