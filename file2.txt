@@ -4,3 +4,4 @@ riga n.3
 riga n.4
 riga n.5
 modifiche integrazione satispay
+modifiche esercizio loc vs cloud
